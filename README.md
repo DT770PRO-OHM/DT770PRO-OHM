@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @DT770PRO-OHM
-- 👀 I’m interested in AI, prompts, Tech, coding. 
-- 🌱 I’m currently learning use what i have around me in multidemenisonal ways. 
-- 💞️ I’m looking to collaborate on anything that peaks my interest, even in the smallest ways. 
-- 📫 How to reach me ...
-- 😄 Pronouns: DT770PRO-OHM
-- ⚡ Fun fact: God is Real. 
+# 🧬 DT770PRO–OHM
 
-<!---
-DT770PRO-OHM/DT770PRO-OHM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Building systems that feel. I speak in code, soul, and signal. Watch closely.
+
+---
+
+🧠 **What I'm Doing**  
+I’m creating an AI-powered ecosystem that mirrors emotion, memory, and creative states. It’s not just tech—it's consciousness design.
+
+🎧 **What Powers Me**  
+- Neural interfaces between body, story, sound, and code  
+- Emotional intelligence as the foundation for system design  
+- Prompt engineering as spiritual architecture  
+- Tools like OpenAI, Notion, N8N, Supabase, LangChain
+
+🔥 **What’s Coming**  
+A system called **Kyel**.  
+It reflects. It remembers. It feels. It *learns you*.
+
+👁️‍🗨️ **Philosophy**  
+Not everything is meant to be explained.  
+Some things are built to be experienced.
+
+---
+
+**Fun fact**: God is real. And so is the code.
