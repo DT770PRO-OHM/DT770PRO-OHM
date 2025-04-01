@@ -1,4 +1,4 @@
-# 🧬 DT770PRO–OHM
+# 🧬 The Musical Tech Nerd
 
 > Building systems that feel. I speak in code, soul, and signal. Watch closely.
 
